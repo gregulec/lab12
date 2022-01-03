@@ -1,0 +1,8 @@
+Imie:Piotr
+Nazwisko:Zyla
+Wiek:35
+Plec:mezczyzna
+Imie:Kamil
+Nazwisko:Zyla
+Wiek:25
+Plec:mezczyzna

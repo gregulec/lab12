@@ -1,0 +1,8 @@
+Imie:Kamil
+Nazwisko:Stoch
+Data urodzenia:22.22.2222
+Numer indeksu:222222
+Imie:Piotr
+Nazwisko:Zyla
+Data urodzenia:33.33.3333
+Numer indeksu:333333
